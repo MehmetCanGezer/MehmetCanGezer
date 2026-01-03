@@ -22,13 +22,15 @@ Modern web teknolojileri ve mobil uygulama geliştirme üzerine odaklanmış bir
 * **Mobil:** Android Development (Java), Firebase Integration
 * **Konseptler:** OOP (Nesne Yönelimli Programlama), SEO, Responsive Design
 
-## 📊 GitHub Genel Bakış
+## 📊 GitHub İstatistiklerim
 
 <p align="left">
-<img src="https://img.shields.io/github/followers/MehmetCanGezer?label=Takipçi&style=for-the-badge&color=blue">
-<img src="https://img.shields.io/github/stars/MehmetCanGezer/Java-Android-Book-App?label=Proje%20Yıldızı&style=for-the-badge&color=yellow">
-<img src="https://img.shields.io/github/repo-size/MehmetCanGezer/Java-Android-Book-App?label=Proje%20Boyutu&style=for-the-badge&color=green">
+  <img src="https://img.shields.io/badge/Katkılar-Geliştirici-blue?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/Java%20Projesi-Aktif-orange?style=for-the-badge&logo=android">
+  <img src="https://img.shields.io/badge/C%23%20Öğrenimi-Devam%20Ediyor-purple?style=for-the-badge&logo=c-sharp">
 </p>
+
+---
 
 ---
 ## 📫 Bana Ulaşın
