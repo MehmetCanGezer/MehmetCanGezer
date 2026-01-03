@@ -1,5 +1,9 @@
 # Selam, ben Mehmet Can Gezer! 👋
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
 Modern web teknolojileri ve mobil uygulama geliştirme üzerine odaklanmış bir yazılım geliştiriciyim. Kurumsal kimlik projelerinin yanı sıra C# ve Java ile yazılım dünyasının derinliklerine iniyorum.
 
 ## 🚀 Öne Çıkan Projelerim
@@ -17,17 +21,16 @@ Modern web teknolojileri ve mobil uygulama geliştirme üzerine odaklanmış bir
 
 ## 🛠 Kullandığım Teknolojiler
 
-* **Diller:** Java, C#, JavaScript (ES6+), HTML5, CSS3
-* **Frameworks & CMS:** WordPress, React
-* **Mobil:** Android Development (Java), Firebase Integration
-* **Konseptler:** OOP (Nesne Yönelimli Programlama), SEO, Responsive Design
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,cs,js,html,css,react,wordpress,firebase,figma&theme=dark" />
+</p>
 
 ## 📊 GitHub İstatistiklerim
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Katkılar-Geliştirici-blue?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/badge/Java%20Projesi-Aktif-orange?style=for-the-badge&logo=android">
-  <img src="https://img.shields.io/badge/C%23%20Öğrenimi-Devam%20Ediyor-purple?style=for-the-badge&logo=c-sharp">
+  <img src="https://img.shields.io/badge/KATKILAR-GELI%C5%9ETIRICI-white?style=for-the-badge&logo=github&logoColor=black">
+  <img src="https://img.shields.io/badge/JAVA_PROJESI-AKTIF-orange?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23_ÖĞRENIMI-DEVAM_EDIYOR-purple?style=for-the-badge&logo=csharp&logoColor=white">
 </p>
 
 ---
