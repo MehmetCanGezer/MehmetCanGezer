@@ -22,12 +22,15 @@ Modern web teknolojileri ve mobil uygulama geliştirme üzerine odaklanmış bir
 * **Mobil:** Android Development (Java), Firebase Integration
 * **Konseptler:** OOP (Nesne Yönelimli Programlama), SEO, Responsive Design
 
-## 📊 GitHub İstatistiklerim
+## 📊 GitHub Genel Bakış
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MehmetCanGezer&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetCanGezer&layout=compact&theme=radical&langs_count=6" />
+<img src="https://img.shields.io/github/followers/MehmetCanGezer?label=Takipçi&style=for-the-badge&color=blue">
+<img src="https://img.shields.io/github/stars/MehmetCanGezer/Java-Android-Book-App?label=Proje%20Yıldızı&style=for-the-badge&color=yellow">
+<img src="https://img.shields.io/github/repo-size/MehmetCanGezer/Java-Android-Book-App?label=Proje%20Boyutu&style=for-the-badge&color=green">
 </p>
+
+---
 ## 📫 Bana Ulaşın
 
 * 💼 **LinkedIn:** [Mehmet Can Gezer](https://www.linkedin.com/in/mehmet-can-gezer-430215340/)
