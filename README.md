@@ -12,14 +12,14 @@ Modern web teknolojileri ve mobil uygulama geliştirme üzerine odaklanmış bir
 
 ## 📱 Mobil & Yazılım Çalışmalarım
 
-* **Java Mobil Uygulama:** Şu anda Java kullanarak Android platformu için mobil uygulamalar geliştiriyorum. (Kodlarımı yakında repolarımda bulabilirsiniz!)
+* **[Java Kitap Kayıt Uygulaması](https://github.com/MehmetCanGezer/Java-Android-Book-App):** Java ve Firebase kullanarak geliştirdiğim, kitap bilgilerini kaydeden ve yöneten Android uygulaması.
 * **C# & OOP:** Nesne Yönelimli Programlama (OOP) prensiplerini C# üzerinden derinlemesine öğreniyor ve uyguluyorum.
 
 ## 🛠 Kullandığım Teknolojiler
 
 * **Diller:** Java, C#, JavaScript (ES6+), HTML5, CSS3
 * **Frameworks & CMS:** WordPress, React
-* **Mobil:** Android Development (Java)
+* **Mobil:** Android Development (Java), Firebase Integration
 * **Konseptler:** OOP (Nesne Yönelimli Programlama), SEO, Responsive Design
 
 ## 📫 Bana Ulaşın
